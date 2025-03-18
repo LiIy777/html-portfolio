@@ -1,0 +1,25 @@
+*{
+    margin:0; 
+}
+
+h1{
+    color:crimson;
+    font-size:60px;
+}
+a{
+    font-size: 20px;
+    text-decoration: none;
+}
+
+a:visited{
+    color: blue;
+}
+
+img{
+    width: 200px;
+    height: auto;
+}
+
+body{
+    background-color: lightcyan;
+}
